@@ -1,5 +1,8 @@
 # lista zadań do wykonania
-prosta aplikacja do zarzadzania codziennymi zadaniami
-## Właściwości 
-* Lista codziennych zadań
-LICENSE: MIT.
+a simply app to manage your daily tasks.
+It uses HTML5 and CSS3.
+#Features
+*List of daily tasks
+*Pretty color
+
+License: MIT
